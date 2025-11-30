@@ -1,0 +1,7 @@
+ls -> lista arquivo
+cd - > move entre diretorios
+pwd -> mostra diretório de trabalho
+-a -> mostra arquivos ocultos
+cat -> abre arquivos editaveis
+git init . -> tornar uma pasta "especial"
+rm -rf .git/ -> deleta o diretorio
