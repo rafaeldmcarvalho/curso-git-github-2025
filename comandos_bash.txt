@@ -2,6 +2,6 @@ ls -> lista arquivo
 cd - > move entre diretorios
 pwd -> mostra diretório de trabalho
 -a -> mostra arquivos ocultos
-cat -> abre arquivos editaveis
+cat -> exibe conteudo do arquivo
 git init . -> tornar uma pasta "especial"
-rm -rf .git/ -> deleta o diretorio
+rm -rf .git/ -> remove arquivo ou diretório
