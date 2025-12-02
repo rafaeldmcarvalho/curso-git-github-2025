@@ -2,3 +2,5 @@ esse arquivo contém comandos secundarios de git
 comando 1
 
 comando 2
+
+sem merge
