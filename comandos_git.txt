@@ -1,6 +1,6 @@
-git init . -> cria um repogit na pasta atual
-git status -> mostra o status do trabalho 
-git commit - m "msg" -> faz commit do que estava para ser comitado
+git init .                   -> cria um repogit na pasta atual
+git status                   -> mostra o status do trabalho 
+git commit - m "msg"         -> faz commit do que estava para ser comitado
 git add nome_arquivo -> adiciona arquivo para ser comitado
 git log -> mostra todo o histórico de commit
 git dif -> mostra diferença do estado atual para o estado do ultimo commit
@@ -17,3 +17,6 @@ git dif -> mostra diferença do estado atual para o estado do ultimo commit
 7. git commit -m "msg"
 8. git status
 9. volta ao passo 3.
+
+
+"mensagem estranha"
