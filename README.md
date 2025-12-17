@@ -6,6 +6,8 @@ e repositórios remotos com GitHub.
 
 Além disso, vamos trabalhar com GitFlow ao final do curso e Visual Studio Code.
 
+confira tudo no youtube!
+
 # Fluxo de trabalho Git local
 1. git checkout -b
 2. cria ou atualiza arquivos
